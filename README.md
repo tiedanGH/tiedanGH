@@ -1,6 +1,9 @@
-# tiedanGH
-
-Hello! I’m **tiedan**, currently pursuing my Master’s in Computer Science at Northeastern University. I’m passionate about leveraging object-oriented programming to build engaging software and intuitive user experiences.
+<div align="center">
+    <h1>Hi, I'm tiedan 👋</h1>
+    <h3>Master’s Student in Software Engineering at Northeastern University</h3>
+    <img src="https://komarev.com/ghpvc/?username=tiedanGH&abbreviated=true" alt="profile views" />
+    <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiedanGH&show_icons=true&locale=en" alt="stats" /></p>
+</div>
 
 ---
 
@@ -39,16 +42,16 @@ Hello! I’m **tiedan**, currently pursuing my Master’s in Computer Science at
 
 ## 🌟 Featured Projects
 
-#### 🤝 Projects Collaborating with Others
-- [Slontia/lgtbot](https://github.com/Slontia/lgtbot) - Game bot in Online Chat Rooms (C++)
+### 🤝 Projects Collaborating with Others
+- [Slontia/**lgtbot**](https://github.com/Slontia/lgtbot) - Game bot in Online Chat Rooms (C++)
 
-#### 🚧 Projects I'm Currently Working On
-- [TiedanBot-plugin](https://github.com/tiedanGH/TiedanBot-plugin) - A simple bot management plugin written based on Mirai Console (Kotlin)
-- [mirai-console-jcc-plugin](https://github.com/tiedanGH/mirai-console-jcc-plugin) - mirai-console online compiler plugin based on Glot API (Kotlin)
+### 🚧 Projects I'm Currently Working On
+- [**TiedanBot-plugin**](https://github.com/tiedanGH/TiedanBot-plugin) - A simple bot management plugin written based on Mirai Console (Kotlin)
+- [**mirai-console-jcc-plugin**](https://github.com/tiedanGH/mirai-console-jcc-plugin) - mirai-console online compiler plugin based on Glot API (Kotlin)
 
-#### ✅ Past Projects
-- [Tank Fight Game](https://github.com/tiedanGH/Tank-Fight-Game) - a Tank fight game developed using JavaFX (Java)
-- [OnlineRetailStore](https://github.com/tiedanGH/OnlineRetailStore) - A full-stack e-commerce web application built using Spring Boot, Hibernate, MySQL, JSP and Bootstrap.
+### ✅ Past Projects
+- [**Tank Fight Game**](https://github.com/tiedanGH/Tank-Fight-Game) - a Tank fight game developed using JavaFX (Java)
+- [**OnlineRetailStore**](https://github.com/tiedanGH/OnlineRetailStore) - A full-stack e-commerce web application built using Spring Boot, Hibernate, MySQL, JSP and Bootstrap. (Java)
 
 ## 📬 Contact Me
 
