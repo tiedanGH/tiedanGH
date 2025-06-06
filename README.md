@@ -46,8 +46,9 @@
 - [Slontia/**lgtbot**](https://github.com/Slontia/lgtbot) - Game bot in Online Chat Rooms (C++)
 
 ### 🚧 Projects I'm Currently Working On
+- [**mirai-compiler-framework**](https://github.com/tiedanGH/mirai-compiler-framework/) - mirai-console online compiler framework based on Glot API (Kotlin)
+- [**imgloc-uploader**](https://github.com/tiedanGH/imgloc-uploader) - mirai-console image upload plugin based on imgloc API (Kotlin)
 - [**TiedanBot-plugin**](https://github.com/tiedanGH/TiedanBot-plugin) - A simple bot management plugin written based on Mirai Console (Kotlin)
-- [**mirai-console-jcc-plugin**](https://github.com/tiedanGH/mirai-console-jcc-plugin) - mirai-console online compiler plugin based on Glot API (Kotlin)
 
 ### ✅ Past Projects
 - [**Tank Fight Game**](https://github.com/tiedanGH/Tank-Fight-Game) - a Tank fight game developed using JavaFX (Java)
