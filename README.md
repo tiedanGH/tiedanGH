@@ -1,44 +1,41 @@
 <div align="center">
     <h1>Hi, I'm tiedan 👋</h1>
     <h3>Master’s Student in Software Engineering at Northeastern University</h3>
-    <img src="https://komarev.com/ghpvc/?username=tiedanGH&abbreviated=true" alt="profile views" />
-    <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiedanGH&show_icons=true&locale=en" alt="stats" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiedanGH&show_icons=true&bg_color=44,e0f2ff,f3e8ff,eceaff&locale=en" alt="stats" /></p>
 </div>
 
 ---
 
 ## 🛠️ Technical Skills
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiedanGH&layout=compact&langs_count=10" alt="Top Lang"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiedanGH&layout=compact&bg_color=44,e0f2ff,f3e8ff,eceaff&langs_count=8" alt="Top Lang"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=tiedanGH&abbreviated=true&style=pixel" alt="profile views" />
 
-- I’m comfortable with these languages and have used them in several projects
+I’m comfortable with these languages and have used them in several projects
 
-[![C++](https://img.shields.io/badge/C%2B%2B-F0F0F0?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
-[![Kotlin](https://img.shields.io/badge/kotlin-F0F0F0?style=for-the-badge&logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/java-F0F0F0?style=for-the-badge&logo=openjdk&logoColor=000000)](https://openjdk.org/)
-[![Python](https://img.shields.io/badge/Python-F0F0F0?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-F0F0F0?style=for-the-badge&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://html.spec.whatwg.org/)
 
-- As a programmer, I also know a few about these languages. But still learning
+As a programmer, I also know a few about these languages. But still learning
 
-[![CMake](https://img.shields.io/badge/CMake-F0F0F0?style=for-the-badge&logo=cmake&logoColor=064F8C)](https://cmake.org/)
-[![CSS](https://img.shields.io/badge/Css-F0F0F0?style=for-the-badge&logo=css&logoColor=663399)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0F0F0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-F0F0F0?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
-[![Go](https://img.shields.io/badge/Go-F0F0F0?style=for-the-badge&logo=go&logoColor=00ADD8)](https://golang.google.cn/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
+[![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=FFFFFF)](https://cmake.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](https://golang.google.cn/)
 
-- I commonly develop in both native Linux environments and Windows subsystems
+I develop in both native Linux and Windows (WSL) environments, using tools like
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-F0F0F0?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
-[![WSL](https://img.shields.io/badge/%F0%9F%90%A7WSL-F0F0F0?style=for-the-badge)](https://learn.microsoft.com/en-us/windows/wsl/)
-
-- I frequently rely on the following software for development & design
-
-[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-F0F0F0?style=for-the-badge&logo=intellij%20idea&logoColor=000000)](https://www.jetbrains.com/idea/)
-[![CLion](https://img.shields.io/badge/CLion-F0F0F0?style=for-the-badge&logo=clion&logoColor=000000)](https://www.jetbrains.com/clion/)
-[![VSCode](https://img.shields.io/badge/VSCode-F0F0F0?style=for-the-badge&logo=visual%20studio%20code&logoColor=22A6F2)](https://vscode.dev/)
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-F0F0F0?style=for-the-badge&logo=adobe%20photoshop&logoColor=00C8FF)](https://www.adobe.com/products/photoshop.html)
-[![Microsoft Edge](https://img.shields.io/badge/Edge-F0F0F0?style=for-the-badge&logo=microsoft%20edge&logoColor=00A4EF)](https://www.microsoft.com/en-us/edge/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
+[![WSL](https://img.shields.io/badge/%F0%9F%90%A7WSL-0078D7?style=for-the-badge)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=A7B8C2)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=A7B8C2)](https://www.jetbrains.com/clion/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF)](https://vscode.dev/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=FFFFFF)](https://www.adobe.com/products/photoshop.html)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=FFFFFF)](https://www.microsoft.com/en-us/edge/)
 
 ## 🌟 Featured Projects
 
