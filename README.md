@@ -40,17 +40,17 @@ I develop in both native Linux and Windows (WSL) environments, using tools like
 ## 🌟 Featured Projects
 
 ### 🤝 Projects Collaborating with Others
-- [Slontia/**lgtbot**](https://github.com/Slontia/lgtbot) - Game bot in Online Chat Rooms (C++)
+- [Slontia/**lgtbot**](https://github.com/Slontia/lgtbot) - chat room game referee bot, transforming chat rooms into a gaming platform (C++)
 
 ### 🚧 Projects I'm Currently Working On
-- [**tiedangh.github.io**](https://github.com/tiedanGH/tiedangh.github.io) - A small game website based on GitHub Pages (JavaScript, CSS, HTML)
-- [**mirai compiler framework**](https://github.com/tiedanGH/mirai-compiler-framework/) - mirai-console online compiler framework based on Glot API (Kotlin)
-- [**TiedanBot plugin**](https://github.com/tiedanGH/TiedanBot-plugin) - A simple bot management plugin written based on Mirai Console (Kotlin)
+- [**mirai compiler framework**](https://github.com/tiedanGH/mirai-compiler-framework/) - Mirai Console online compiler framework based on Glot API (Kotlin)
+- [**tiedangh.github.io**](https://github.com/tiedanGH/tiedangh.github.io) - a small game website based on GitHub Pages (JavaScript, CSS, HTML)
+- [**TiedanBot plugin**](https://github.com/tiedanGH/TiedanBot-plugin) - a simple bot management plugin written based on Mirai Console (Kotlin)
 
 ### ✅ Past Projects
-- [**imgloc uploader**](https://github.com/tiedanGH/imgloc-uploader) - mirai-console image upload plugin based on imgloc API (Kotlin)
-- [**Tank Fight Game**](https://github.com/tiedanGH/Tank-Fight-Game) - a Tank fight game developed using JavaFX (Java)
-- [**Online Retail Store**](https://github.com/tiedanGH/Online-Retail-Store) - A full-stack e-commerce web application built using Spring Boot, Hibernate, MySQL, JSP and Bootstrap. (Java)
+- [**imgloc uploader**](https://github.com/tiedanGH/imgloc-uploader) - Mirai Console image upload plugin based on imgloc API (Kotlin)
+- [**Tank Fight Game**](https://github.com/tiedanGH/Tank-Fight-Game) - a tank fight game developed using JavaFX (Java)
+- [**Online Retail Store**](https://github.com/tiedanGH/Online-Retail-Store) - a full-stack e-commerce web application built using Spring Boot, Hibernate, MySQL, JSP and Bootstrap. (Java)
 
 ## 📬 Contact Me
 
