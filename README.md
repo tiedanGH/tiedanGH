@@ -1,14 +1,14 @@
 <div align="center">
     <h1>Hi, I'm tiedan 👋</h1>
     <h3>Master’s Student in Software Engineering at Northeastern University</h3>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiedanGH&show_icons=true&bg_color=44,fff0f6,fff2e8,fff9db&locale=en" alt="stats" /></p>
+    <p><img align="center" src="./profile/stats.svg" alt="stats" /></p>
 </div>
 
 ---
 
 ## 🛠️ Technical Skills
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiedanGH&layout=compact&langs_count=8" alt="Top Lang"/>
+<img align="right" src="./profile/top-langs.svg" alt="top-langs"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=tiedanGH&abbreviated=true&style=pixel" alt="profile views" />
 
 I’m comfortable with these languages and have used them in several projects
