@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, I'm tiedan 👋</h1>
+    <h1>Hi, I'm Jiaqi Yu 👋</h1>
     <h3>Master’s Student in Software Engineering at Northeastern University</h3>
     <p><img align="center" src="./profile/stats.svg" alt="stats" /></p>
 </div>
@@ -37,6 +37,8 @@
 
 ### 🤝 Projects Collaborating with Others
 - [Slontia/**lgtbot**](https://github.com/Slontia/lgtbot) - Chat room game referee bot, supporting 100+ active users/day (C++)
+
+[//]: # (- [imalydimalyd/**yagame**]&#40;https://github.com/imalydimalyd/yagame&#41; - Gaming platform supporting self-hosted servers and custom game rules &#40;JavaScript, CSS, HTML&#41;)
 
 ### 🚧 Projects I'm Currently Working On
 - [**tiedangh.github.io**](https://github.com/tiedanGH/tiedangh.github.io) - a small game website based on GitHub Pages (JavaScript, CSS, HTML)
