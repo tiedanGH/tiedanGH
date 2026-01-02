@@ -5,8 +5,6 @@
 </div>
 <img align="left" src="https://komarev.com/ghpvc/?username=tiedanGH&abbreviated=true&style=pixel" alt="profile views" />
 
----
-
 <img align="right" src="./profile/top-langs.svg" alt="top-langs"/>
 
 ## 🛠️ Languages and Tools
