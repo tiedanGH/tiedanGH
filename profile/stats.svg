@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jiaqi Yu's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 1006, Total PRs: 83, Total Issues: 12, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 1018, Total PRs: 83, Total Issues: 12, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 114.37325301827086;
+        stroke-dashoffset: 114.28899603293632;
       }
     }
   
